@@ -1,0 +1,21 @@
+1. What is the distribution of the released_year for the songs in the dataset?
+
+ 
+2. How do the danceability percentages vary across different keys?
+
+ 
+3.Which songs have the highest and lowest speechiness percentages?
+
+ 
+4.Are there any correlations between the tempo (bpm) and energy levels for the songs?
+
+ 
+5.What is the overall popularity of songs in different modes (Major/Minor)?
+
+ 
+6. How do the streams on Spotify relate to the number of times a song appears in Spotify playlists?
+
+ 
+7.How do the artist counts affect the number of streams on Apple Music?
+
+ 
